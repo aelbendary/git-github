@@ -1,2 +1,2 @@
 # git-github
-this is a git repo 
+this is for tuturial purpose
